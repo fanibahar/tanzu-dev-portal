@@ -19,7 +19,7 @@
   "homepage": "https://github.com/vmware-tanzu-private/tanzu-dev-portal#readme",
   "dependencies": {
     "@sentry/serverless": "^6.2.5",
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.8",
     "cookie": "^0.4.1",
     "got": "^11.8.2",
     "jsonwebtoken": "^8.5.1",
