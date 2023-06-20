@@ -22,7 +22,7 @@
     "autoprefixer": "^9.7.6",
     "cookie": "^0.4.1",
     "got": "^11.8.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "postcss-cli": "^7.1.0",
     "querystring": "^0.2.1",
     "simple-oauth2": "^4.2.0"
